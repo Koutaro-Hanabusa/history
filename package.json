@@ -7,8 +7,8 @@
     "dev": "blume dev",
     "build": "blume build",
     "doctor": "blume doctor",
-    "preview": "wrangler pages dev dist",
-    "deploy": "wrangler pages deploy dist",
+    "preview": "wrangler dev",
+    "deploy": "wrangler deploy",
     "lint": "biome lint .",
     "fmt": "biome format --write .",
     "check": "biome check --write ."
