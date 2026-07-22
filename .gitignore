@@ -1,0 +1,6 @@
+.blume/
+dist/
+node_modules/
+.wrangler/
+.dev.vars
+.blume-verify/
